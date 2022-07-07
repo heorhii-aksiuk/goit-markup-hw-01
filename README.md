@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Репозиторий домашнего задания 01. Основы HTML
+GoIT. Markup. Homework #1 (HTML basics)
